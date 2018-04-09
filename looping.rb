@@ -4,4 +4,4 @@ def looping
 	end
 end
 
-looping
+puts looping
